@@ -3,11 +3,10 @@
 -       writing amazing programmes for everyone
 - 🌱 I’m currently learning ...
 -       C++ & a little HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Welcome to my homepage ...
+-     anpoliros.xyz
 - 📫 How to reach me ...
--     zzzbc@outlook.com 
--      or
--     anpoliros@qq.com
+-     zzzbc@outlook.com
 
 
 <!---
